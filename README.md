@@ -1,6 +1,6 @@
 # Jarvis
 Simple Jarvis A.I in Python language.
-Taks it will perform
+Tasks it will perform
 1. Wish
 2. Self Information
 3. Web Browsing
@@ -13,7 +13,7 @@ Taks it will perform
 10. Voice language Translator
 11. File Handling
 12. Email Sending
-13. Time & Calender
+13. Time & Calendar
 
 Note: In linux espeak is used for voices but in windows use sapi5 instead of espeak.
 
